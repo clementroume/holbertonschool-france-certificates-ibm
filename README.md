@@ -12,7 +12,7 @@ These certifications provide in-depth training in key areas such as DevOps, cybe
 
 ### **📌 Foundational Skills**  
 
-- 📜 **[Introduction to Open Source](certificates-trimester-1/certificate-oss)**  
+- ✅ **[Introduction to Open Source](certificates-trimester-1/certificate-oss)**  
   - Open Source Software (OSS) concepts  
   - Contribution best practices  
   - GitHub fundamentals and licensing  
